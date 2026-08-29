@@ -1,0 +1,24 @@
+[
+  {
+    "id": "sang-01",
+    "name": "Royal Sanganeri Hand-Block Print Cotton Kurti Set",
+    "category": "stitched",
+    "priceB2C": 1299,
+    "priceB2B": 650,
+    "moqB2B": 10,
+    "image": "/images/kurti-1.jpg",
+    "sizes": ["S", "M", "L", "XL", "2XL", "3XL"],
+    "description": "Authentic Jaipur hand-block printed pure cotton kurti with matching pants and dupatta."
+  },
+  {
+    "id": "sang-02",
+    "name": "Chanderi Sanganeri Motif Unstitched Fabric",
+    "category": "non-stitched",
+    "pricePerMeterB2C": 250,
+    "pricePerMeterB2B": 140,
+    "moqB2B": 20,
+    "minMetersB2C": 2,
+    "image": "/images/fabric-1.jpg",
+    "description": "Premium traditional Sanganeri motif unstitched running fabric in high-grade Chanderi cotton."
+  }
+]
