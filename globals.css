@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --maroon: #800020;
+  --gold: #D4AF37;
+  --offwhite: #FAFAFA;
+}
+
+body {
+  background-color: var(--offwhite);
+  color: #1c1c1c;
+}
